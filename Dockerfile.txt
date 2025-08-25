@@ -1,0 +1,10 @@
+FROM python:3.13.5
+
+EXPOSE 8080
+WORKDIR /app
+
+COPY . ./
+
+RUN pip install -r requirements.txt
+
+ENTRYPOINT ["streamlit", "run", "final.py", "--server.port=8080", "--server.address=0.0.0.0"]

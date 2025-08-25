@@ -1,0 +1,101 @@
+Customer_Name,Account_Number,Account_Type,Branch_Location,Transaction_Type,Transaction_Amount,Transaction_Date,Loan_Applications,Loan_Amount,Loan_Status,Credit_Score,Aggregated_Credit_Risk_Score,Account_Balance,Email,Phone_Number
+Nicholas Ward,354957418908,Fixed Deposit,Dammam,Withdrawal,2521.97,2025-06-05,0,0.0,,502,0.75,85075.75,matthewnguyen@example.net,(837)861-4016x2923
+David Blankenship,178532151606,Business,Makkah,Deposit,5940.46,2024-09-18,3,48711.03,Pending,300,0.46,48422.31,johnsonmichael@example.org,(974)700-9140x12404
+Sherry Williams,260796885981,Current,Dammam,Withdrawal,4092.12,2025-07-20,2,13949.83,Pending,361,0.82,72473.2,hwaters@example.net,(327)946-7686x34021
+John Costa,118220072436,Current,Jeddah,Deposit,7824.6,2024-12-06,0,0.0,,481,0.93,40014.21,johnsonandrew@example.org,(874)560-4976
+Andrea Russell,683276690657,Fixed Deposit,Madinah,Withdrawal,9296.07,2024-12-24,3,12928.77,Rejected,720,0.82,47247.14,gsmith@example.com,(518)721-1213x347
+Danielle Gates,527613097638,Business,Riyadh,Loan Payment,5046.05,2024-10-19,3,24760.73,Pending,402,0.27,57397.1,adunn@example.com,3649947852
+Heidi Gamble,686024484170,Current,Makkah,Loan Payment,3256.57,2025-06-15,0,0.0,,762,0.38,65168.33,ncontreras@example.com,976.282.0611x638
+James Garrett,680754036754,Fixed Deposit,Madinah,Transfer,8713.74,2024-08-13,0,0.0,,706,0.6,76454.46,yfisher@example.net,+1-316-352-2238x854
+Ashley Harvey,856264882033,Business,Jeddah,Bill Payment,1523.96,2025-05-01,2,36661.97,Approved,510,0.91,50423.21,jacksonstephanie@example.org,(758)914-4535
+Sandra Mendoza,438050393601,Savings,Madinah,Transfer,1502.72,2025-05-21,2,49085.49,Approved,329,0.82,86124.54,william29@example.com,(231)332-1350x0304
+Luis Johnson,363406866558,Savings,Makkah,Deposit,9381.9,2025-05-19,3,21703.59,Approved,664,0.3,30069.94,scottjason@example.org,(644)803-0324
+Miranda Acosta,326832801541,Fixed Deposit,Madinah,Loan Payment,2262.36,2025-07-11,1,1877.89,Rejected,321,0.05,90424.32,alexanderjohn@example.org,(505)355-1091x02715
+John Logan,907425420635,Savings,Makkah,Deposit,5707.9,2024-11-21,2,48344.42,Pending,333,0.98,60069.1,marcpark@example.com,(491)351-1197x0684
+Brenda Smith,104162602184,Current,Dammam,Withdrawal,1474.97,2025-03-13,1,19238.56,Rejected,409,0.71,64035.44,jeffrey29@example.com,001-503-329-1129x170
+Jennifer Hammond,570016001956,Savings,Madinah,Deposit,2661.22,2025-04-26,3,35726.65,Approved,756,0.46,43641.85,jonesdavid@example.net,(902)280-3223x0059
+Bryan Hernandez,279983557283,Current,Madinah,Deposit,1802.94,2025-07-08,3,48739.88,Approved,802,0.7,3958.8,kingjennifer@example.com,(635)778-0278x1883
+Wayne Roach,499716648741,Business,Makkah,Deposit,2602.0,2024-11-23,1,9053.25,Pending,392,0.43,65617.18,michaelpeterson@example.com,750.526.2433x83450
+Jesus Kent,362570286243,Fixed Deposit,Riyadh,Bill Payment,4228.07,2024-09-18,2,49723.24,Approved,339,0.38,55781.04,blackjack@example.com,5379710536
+Mrs. Jordan Scott,882564794227,Business,Riyadh,Transfer,4924.25,2024-11-30,1,22386.92,Pending,753,0.14,58278.57,wdunlap@example.com,(910)311-4922x17397
+Angela Martin,767569077270,Business,Dammam,Bill Payment,1511.36,2025-02-21,0,0.0,,652,0.85,72718.33,tnorris@example.com,675.666.3626
+William Brown,645748463306,Business,Jeddah,Transfer,8310.86,2024-08-20,1,5164.01,Approved,768,0.44,21095.67,kingmark@example.net,(497)401-1324x3587
+James Larson,227275262988,Current,Jeddah,Deposit,5574.08,2025-04-04,3,4610.35,Pending,512,0.25,13783.1,nguyenkathleen@example.com,475-567-3974
+Christian Marsh,714316854308,Current,Madinah,Withdrawal,942.98,2025-05-14,2,7703.92,Pending,578,0.89,79500.31,smithmark@example.com,001-788-855-3439
+Terry Lewis,841194024631,Business,Riyadh,Loan Payment,4791.21,2025-07-23,2,45050.85,Rejected,769,0.08,16698.38,fmartinez@example.org,(968)940-0893x43221
+Stephanie Barry,232587138672,Fixed Deposit,Jeddah,Loan Payment,325.16,2025-03-26,3,6205.77,Pending,605,0.95,49621.8,jmoore@example.org,001-466-366-3323x465
+Rachel Miller,967832894989,Current,Riyadh,Transfer,115.96,2025-05-31,3,41876.9,Approved,609,0.0,22325.17,thomasdeborah@example.org,5299373897
+Kristina Deleon,178629643527,Fixed Deposit,Madinah,Transfer,1881.29,2024-08-13,1,19810.21,Rejected,595,0.09,27362.94,suzannemiller@example.com,+1-770-211-4254x832
+Gregory Thomas,686304527220,Current,Makkah,Bill Payment,3501.67,2025-06-08,1,35511.5,Approved,308,0.59,6653.55,cooperbrian@example.net,001-368-215-0416
+Julie Cruz,167992906823,Current,Dammam,Deposit,4277.36,2024-08-15,1,19922.58,Pending,472,0.84,26209.3,clarkevelyn@example.org,649-716-1543x8842
+Ian Stuart,875583233127,Fixed Deposit,Jeddah,Loan Payment,7798.52,2025-03-26,3,14644.09,Pending,410,0.99,12118.17,stephenchapman@example.org,322-734-5604x852
+Daniel Hanson,952801234999,Business,Riyadh,Bill Payment,7627.02,2024-10-24,2,41795.01,Approved,773,0.99,62976.68,gthornton@example.org,001-211-316-4794x01979
+Jose Chaney,990811914099,Fixed Deposit,Riyadh,Transfer,9520.74,2025-07-24,1,12640.35,Pending,462,0.06,44944.24,philipbrock@example.net,+1-880-302-0474
+Amy Bolton,860950663096,Fixed Deposit,Jeddah,Withdrawal,4410.03,2024-11-28,1,36699.44,Pending,335,0.3,43956.17,yhumphrey@example.com,827-260-2074x560
+Rachel Mills,786108234335,Fixed Deposit,Makkah,Bill Payment,1019.84,2025-02-23,0,0.0,,430,0.32,37680.58,williammassey@example.net,(799)798-6711x5583
+Daniel Jones,962034705338,Current,Dammam,Loan Payment,9088.4,2025-01-25,0,0.0,,794,0.56,37254.24,xstevenson@example.com,(382)994-5747
+Janet Boyd,748332859789,Savings,Jeddah,Transfer,2795.19,2025-04-03,0,0.0,,787,0.64,49002.8,fordsara@example.com,280.505.3613
+Patrick Moreno,797676280556,Business,Dammam,Deposit,8855.2,2024-09-22,1,35156.94,Pending,716,0.41,34421.99,robin63@example.net,(439)963-1632x5235
+David Dixon,218463812689,Savings,Dammam,Loan Payment,761.75,2024-08-13,1,24208.09,Pending,319,0.2,5906.58,christinamitchell@example.net,226.737.0546x896
+Thomas Smith,676779829234,Savings,Dammam,Withdrawal,1688.42,2025-07-29,2,40313.58,Approved,485,0.65,63208.73,orrsteven@example.com,001-904-889-2278
+Matthew Phillips,459000998529,Fixed Deposit,Madinah,Bill Payment,7059.02,2024-10-25,0,0.0,,791,0.69,70572.9,melissa35@example.net,(781)259-3017x7678
+Holly Medina,903824818025,Fixed Deposit,Riyadh,Deposit,6421.79,2024-10-29,1,40890.74,Approved,341,0.61,75252.66,mgraham@example.net,001-935-539-3277x536
+Casey Gomez,298689909338,Fixed Deposit,Makkah,Bill Payment,1727.32,2024-08-15,1,21174.22,Approved,785,0.04,80699.43,connorjohnson@example.net,9025157537
+Billy Mcgee,608244370038,Fixed Deposit,Riyadh,Loan Payment,5601.98,2025-06-20,1,21916.14,Rejected,334,0.06,47259.07,rachelquinn@example.net,973-511-9807
+Dalton Jimenez,395760130261,Business,Dammam,Loan Payment,9009.73,2024-11-14,0,0.0,,551,0.52,60364.45,ejones@example.net,580-730-7068x625
+Victoria Smith,344575545234,Savings,Dammam,Loan Payment,8211.66,2025-04-02,0,0.0,,804,0.53,96961.39,tcosta@example.com,577.466.0026x0573
+Tracy Bishop,387268305986,Current,Riyadh,Loan Payment,7184.19,2025-03-30,1,3763.06,Approved,697,0.57,4122.81,omar47@example.com,(380)384-3364x55435
+Tyler Hall DDS,660864221075,Savings,Madinah,Bill Payment,585.8,2025-06-18,2,16898.71,Pending,453,0.23,35631.23,wbaker@example.org,+1-481-752-4753x5112
+James Perry,429870854048,Fixed Deposit,Makkah,Bill Payment,6096.98,2025-05-21,1,17025.8,Rejected,699,0.28,89771.88,robinsondavid@example.org,871.439.6571
+Heather Oconnor,792558579310,Business,Makkah,Deposit,2360.18,2025-05-07,0,0.0,,432,0.17,70017.37,kristinrowe@example.org,(571)873-2704x256
+Katrina Haney,816358635252,Savings,Madinah,Loan Payment,3361.32,2025-04-30,3,7509.46,Approved,465,0.05,84342.85,vmelton@example.com,001-672-811-0727x0213
+Rebecca Wilkinson,634660313639,Fixed Deposit,Madinah,Deposit,1857.22,2025-01-15,1,19782.55,Pending,664,0.81,90665.84,bcurry@example.net,722.852.3755x8556
+Dan Simon,541182372767,Current,Makkah,Deposit,2910.13,2024-12-29,3,32169.16,Approved,330,0.17,25148.41,elizabeth33@example.net,(346)459-9811x123
+Jillian Goodwin,775690523312,Savings,Riyadh,Deposit,1502.8,2024-11-03,1,29081.59,Approved,693,0.12,76890.53,underwoodryan@example.net,6926078311
+Darryl Knapp,692440011585,Current,Madinah,Loan Payment,2630.27,2025-06-23,1,2253.54,Rejected,623,0.83,27989.97,aaustin@example.net,+1-317-437-1156x077
+Nicole Odonnell,944145733508,Current,Jeddah,Deposit,574.56,2024-08-27,2,24606.96,Approved,529,0.41,25814.14,johnhernandez@example.com,001-821-212-7698
+Tara Cuevas,916306126223,Savings,Madinah,Bill Payment,6990.75,2025-06-15,3,40775.63,Pending,814,0.82,10555.96,kholloway@example.com,(686)603-1088x294
+Sharon Grant,616528105736,Savings,Makkah,Transfer,5072.1,2024-11-12,3,45622.14,Pending,548,0.95,60191.52,kathymarks@example.org,4794086393
+Larry Johnson,723561738786,Current,Jeddah,Bill Payment,6865.81,2025-06-26,3,36047.16,Rejected,494,0.78,7492.37,steven42@example.net,(671)539-7577
+Rebekah Hall,576736259328,Fixed Deposit,Makkah,Withdrawal,7935.79,2025-07-23,2,3525.76,Approved,452,0.54,79178.67,sheila69@example.org,2316976322
+Katherine Valdez,816508938653,Fixed Deposit,Makkah,Withdrawal,5427.61,2025-08-04,0,0.0,,391,0.12,29657.97,destiny03@example.org,(699)822-8415x943
+Anthony Hill,196640325662,Current,Dammam,Deposit,8350.3,2025-04-01,3,35745.06,Rejected,705,0.12,47387.87,foxluis@example.com,001-202-643-6501
+Derrick Garcia,460813267590,Fixed Deposit,Makkah,Transfer,4840.06,2024-08-12,0,0.0,,650,0.26,65662.04,jacobgarcia@example.net,511-211-9547x418
+Sarah Jenkins,520784337352,Fixed Deposit,Dammam,Deposit,1972.73,2025-04-11,2,2783.19,Approved,345,0.95,4660.54,strujillo@example.net,+1-531-311-4129
+Darrell Harris,802417753307,Fixed Deposit,Makkah,Deposit,9961.48,2025-03-21,3,16300.42,Approved,596,0.39,72379.37,jennifernorton@example.org,(398)507-9417
+Justin Welch,958432153529,Business,Riyadh,Transfer,9921.66,2025-02-05,1,6428.53,Pending,491,0.66,73698.54,briannapalmer@example.org,359.479.8959
+Nicholas Wright,288973020103,Business,Jeddah,Transfer,8034.33,2024-12-06,1,40100.07,Pending,581,0.49,46277.99,znichols@example.com,(226)634-8278x4812
+Alexander Patel,298066007246,Fixed Deposit,Makkah,Deposit,7653.08,2025-04-28,1,43429.33,Pending,401,0.56,20998.24,barbersusan@example.com,9932702076
+Amanda Mills,694769984716,Fixed Deposit,Riyadh,Bill Payment,5878.7,2024-10-28,0,0.0,,644,0.04,9557.36,robertanderson@example.com,001-663-693-1178x7499
+Sarah Campbell,923149000692,Savings,Riyadh,Withdrawal,8706.78,2024-10-09,0,0.0,,682,0.51,32708.47,danielle44@example.net,894.414.0031
+Jessica Prince,460242054657,Business,Jeddah,Withdrawal,6716.6,2025-06-03,1,17357.37,Approved,730,0.06,98375.0,tiffanycollier@example.com,401.274.2786x3695
+Rodney Sanchez,925958084681,Business,Dammam,Bill Payment,5385.04,2025-01-17,0,0.0,,731,0.03,16224.41,michaelwilliams@example.com,665-639-8532
+Jennifer Marshall,973412799085,Current,Riyadh,Deposit,2687.89,2024-10-24,3,3685.6,Pending,767,0.35,40834.86,oelliott@example.org,4815082305
+Brad Mills,798726314133,Savings,Makkah,Withdrawal,4827.53,2025-04-09,2,3261.76,Pending,639,0.47,7113.08,arthur26@example.net,513-783-8249
+Jason Robinson,835847183257,Current,Dammam,Bill Payment,6669.36,2025-07-08,3,20771.82,Pending,592,0.37,24012.13,danielsnicole@example.net,675.430.9060
+Todd Johnson,436919055983,Savings,Jeddah,Bill Payment,6047.54,2025-07-01,2,13223.67,Pending,342,0.49,5627.18,iramirez@example.com,653-484-6073x89734
+Angela Eaton,858286391821,Savings,Dammam,Loan Payment,1967.74,2025-01-18,3,8513.34,Pending,441,0.7,71598.98,nperez@example.org,402-637-7038x798
+Christine Martinez,182549042540,Current,Dammam,Deposit,8403.99,2025-06-27,0,0.0,,612,0.43,65369.2,fgreen@example.net,+1-990-319-7530x10642
+Dr. Jessica Douglas,154635305905,Current,Riyadh,Deposit,1074.37,2025-06-25,1,35669.35,Rejected,436,0.95,44490.88,walkerevelyn@example.org,001-994-401-3028x9676
+Benjamin Roberts MD,714773627641,Fixed Deposit,Riyadh,Withdrawal,5496.0,2024-12-08,1,16211.28,Pending,754,0.95,66528.27,jonesbrandon@example.net,679.591.2293x935
+Stephanie Parks,985285969064,Savings,Riyadh,Loan Payment,5698.28,2025-05-02,1,26612.29,Pending,705,0.67,96702.45,edward57@example.net,(974)908-6058
+Richard Lambert,313496805673,Fixed Deposit,Dammam,Withdrawal,2512.57,2024-12-20,2,19437.24,Pending,382,0.69,36632.18,lisa00@example.net,888.294.5803x4877
+Monique Johnson,244914861718,Savings,Jeddah,Withdrawal,7204.54,2025-02-26,2,29807.12,Approved,464,0.84,20402.83,cgrant@example.com,920-600-3801x15762
+Scott Carter,460169343194,Current,Jeddah,Deposit,3476.02,2025-02-10,2,49478.97,Rejected,408,0.79,22685.8,tbautista@example.com,754.278.1399x7327
+John Jackson,459231778772,Fixed Deposit,Madinah,Bill Payment,3608.78,2024-10-07,2,12645.69,Pending,668,0.55,54626.23,acostarobert@example.net,(451)973-3536x01827
+Michael Gordon,211203630204,Current,Riyadh,Withdrawal,2506.56,2025-04-30,1,2311.04,Pending,345,0.78,15321.48,osmith@example.net,001-698-829-9053x5893
+Kaitlin Thompson,834205409295,Current,Riyadh,Transfer,9630.24,2024-09-19,2,44813.25,Approved,775,0.51,42860.73,gregory34@example.org,001-230-914-9517x942
+Daniel Ross,157594877161,Current,Dammam,Loan Payment,8139.29,2025-06-29,3,27456.67,Approved,562,0.98,1140.42,douglasjamie@example.net,228.352.1203
+Lisa Woods,369318315341,Business,Jeddah,Loan Payment,8403.66,2025-05-24,1,40028.93,Approved,386,0.42,73991.2,jjohnson@example.net,(292)842-4382x8593
+Robert Davis,930985147356,Current,Makkah,Transfer,6750.56,2025-03-11,0,0.0,,526,0.41,87986.39,thomasrivas@example.org,268.761.7696
+David Mcdonald,602886863942,Savings,Madinah,Loan Payment,3264.39,2025-04-03,2,43756.49,Rejected,476,0.11,5322.36,oliverlindsey@example.org,377-752-4730
+Nathan Barker,133985223015,Current,Dammam,Loan Payment,2595.25,2025-05-09,2,15350.51,Rejected,693,0.4,40238.35,qgarrett@example.net,001-590-812-1607x4433
+Gary Sheppard,309473854432,Business,Makkah,Bill Payment,7582.1,2025-08-10,2,43754.05,Rejected,475,0.03,70928.64,pattersonmichelle@example.org,360.834.0811x204
+Melissa Sampson,983874176990,Fixed Deposit,Madinah,Bill Payment,4432.28,2025-03-21,3,1094.63,Approved,305,0.08,45114.23,reedcourtney@example.com,701-383-8191x732
+Joel Dennis,429440212349,Business,Madinah,Deposit,4471.63,2025-07-30,1,28715.46,Pending,831,0.11,9784.73,kimnicholas@example.com,6554093899
+Jeremy Edwards,750199134916,Current,Jeddah,Withdrawal,4450.03,2024-12-22,1,6897.73,Rejected,703,0.1,96863.82,nicholas13@example.net,+1-330-872-4251x722
+Gary Sweeney,263899806013,Business,Dammam,Withdrawal,951.01,2025-05-10,1,15636.78,Pending,400,0.18,12939.49,jason21@example.com,(617)499-9835
+Aaron Giles,607979870493,Savings,Jeddah,Bill Payment,768.32,2024-12-27,2,36686.55,Approved,703,0.23,82387.22,daniellediaz@example.org,001-337-961-1330x776
+Jeremy Rivas,120796599535,Savings,Madinah,Withdrawal,6906.98,2025-01-26,1,1395.43,Rejected,633,0.18,14699.19,duffydonald@example.com,597-536-5431
+Kristin Perez,402637322451,Business,Makkah,Bill Payment,3678.22,2025-02-06,3,26864.85,Approved,542,0.65,70976.65,chaas@example.net,(366)847-6994x3556
+Glenn Hill,550324089434,Current,Madinah,Deposit,8205.42,2025-06-16,2,14942.45,Pending,385,0.72,580.37,isabel58@example.com,297-519-1039x20619

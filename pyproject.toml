@@ -1,0 +1,13 @@
+[project]
+name = "ndmo"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "hkhandelwal3", email = "hkhandelwal3@deloitte.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "streamlit==1.24.1",
+    "pillow==9.4.0"
+]

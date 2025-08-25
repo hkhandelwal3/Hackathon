@@ -1,0 +1,56 @@
+import pandas as pd
+import random
+from faker import Faker
+
+fake = Faker()
+
+num_rows = 100
+
+cities = ['Riyadh', 'Jeddah', 'Dammam', 'Makkah', 'Madinah', 'Tabuk']
+regions = ['Central', 'Western', 'Eastern', 'Northern', 'Southern']
+complaint_types = ['Noise', 'Waste', 'Road Damage', 'Water Leak', 'Electricity']
+traffic_levels = ['Low', 'Moderate', 'High', 'Severe']
+permit_types = ['Construction', 'Business License', 'Event', 'Renovation']
+permit_statuses = ['Approved', 'Pending', 'Rejected']
+utility_types = ['Water', 'Electricity', 'Gas']
+
+data = []
+
+for _ in range(num_rows):
+    city = random.choice(cities)
+    region = random.choice(regions)
+    event_name = fake.catch_phrase()
+    event_date = fake.date_between(start_date='-6mo', end_date='+6mo')
+    traffic_report_date = fake.date_between(start_date='-1mo', end_date='today')
+    traffic_level = random.choice(traffic_levels)
+    complaint_type = random.choice(complaint_types)
+    citizen_complaint = fake.text(max_nb_chars=100)
+    complaint_date = fake.date_between(start_date='-1y', end_date='today')
+    permit_type = random.choice(permit_types)
+    permit_status = random.choice(permit_statuses)
+    permit_application_date = fake.date_between(start_date='-1y', end_date='today')
+    utility_type = random.choice(utility_types)
+    utility_usage = round(random.uniform(100, 10000), 2)
+    utility_report_date = fake.date_between(start_date='-1mo', end_date='today')
+    temperature_c = round(random.uniform(15, 45), 1)
+    humidity_percent = round(random.uniform(10, 90), 1)
+
+    data.append([
+        city, region, event_name, event_date, traffic_report_date, traffic_level,
+        complaint_type, citizen_complaint, complaint_date,
+        permit_type, permit_status, permit_application_date,
+        utility_type, utility_usage, utility_report_date,
+        temperature_c, humidity_percent
+    ])
+
+columns = [
+    'City', 'Region', 'Public_Event_Name', 'Event_Date', 'Traffic_Report_Date', 'Traffic_Level',
+    'Complaint_Type', 'Citizen_Complaint', 'Complaint_Date',
+    'Permit_Type', 'Permit_Status', 'Permit_Application_Date',
+    'Utility_Type', 'Utility_Usage_Amount', 'Utility_Report_Date',
+    'Temperature_C', 'Humidity_Percent'
+]
+
+df_municipal = pd.DataFrame(data, columns=columns)
+df_municipal.to_csv("Municipal_SmartCity_Sample_Dataset.csv", index=False)
+print("Municipal_SmartCity_Sample_Dataset.csv created")
