@@ -18,4 +18,4 @@ COPY . .
 
 # Start app (adjust depending on framework)
 # If using Streamlit (from pyproject), run:
-CMD ["streamlit", "run", "main.py", "--server.port=${PORT}", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "final.py", "--server.port=${PORT}", "--server.address=0.0.0.0"]
